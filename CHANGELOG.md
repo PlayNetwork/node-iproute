@@ -1,5 +1,9 @@
 ## Release notes
 
+### 0.8.0
+
+- Added initial support for brona/iproute2mac on darwin and freebsd.
+
 ### 0.7.2
 
 - (@steirico) Fixed missing declaration.
@@ -8,7 +12,7 @@
 
 - Fixed typo in docs.
 - Removed year in license.
- 
+
 ### 0.7.0
 
 - Improved error logging: changed to use default `Error()` constructor so the stack
